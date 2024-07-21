@@ -3,7 +3,7 @@
         "source": "https://github.com/Ganeshkarale212002/Private.git",
         "branch": "main",
         "env": {
-            "TOKEN": "5635181453:AAGDhU4qCnYDuz0XGcQ-XM9qeHSWMPoHvME",
+            "TOKEN": "",
             "TOKEN2": ""
         },
         "run": "python3 bot.py"
