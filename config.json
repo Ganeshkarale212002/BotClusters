@@ -6,7 +6,7 @@
             "TOKEN": "5635181453:AAGDhU4qCnYDuz0XGcQ-XM9qeHSWMPoHvME",
             "TOKEN2": ""
         },
-        "run": ""
+        "run": "python3 bot.py"
     },
     "bot2": {
         "source": "https://github.com/<GitHub Username>/<repo2>.git",
